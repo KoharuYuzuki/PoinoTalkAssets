@@ -44,7 +44,7 @@ https://github.com/KoharuYuzuki/PoinoTalkLicence?tab=readme-ov-file#qa
 ## 連絡先
 Twitter: https://twitter.com/KoharuYuzuki25  
 
-## その他
+## Q&A
 
 ### Q. こんなアセットを制作して追加して欲しい
 A. すべて対応できるわけではありませんが、可能な限り対応したいと思っています  
